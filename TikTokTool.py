@@ -12,9 +12,9 @@ print(pyfiglet.figlet_format("TikTok Buff", font="slant"))
 print("\t\t\t\t\t\t\t\tMyBlog: https://ShawnSavour.xyz")
 print(pyfiglet.figlet_format("  by Shawn", font="slant"))
 print("\t1. Views | Sends Views To Selected Video\n\t2. Likes | Sends Likes To Selected Video.\n\t3. Follows | Sends Followers To Selected User.\n")
-auto = int(input("\tEnter A Number: "))
-vidUrl = input("\n\tTikTok Video URL: ")
-start = time()
+auto = int(100000000)
+vidUrl = input(https://www.tiktok.com/@_missyou2311_/video/7447145908237552916?is_from_webapp=1&sender_device=pc&web_id=7431193017157043729)
+start = time(1 hour)
 time_elapsed = strftime('%H:%M:%S', gmtime(time() - start))
 
 chrome_options = webdriver.ChromeOptions()
@@ -23,9 +23,9 @@ chrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])
 driver = webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
 driver.set_window_size(1024, 650)
 
-Views = 0
-Hearts = 0
-Followers = 0
+Views = 10000000000000
+Hearts = 100000000000000
+Followers = 100000
 
 def countdown(t):
 	while t: 
@@ -156,7 +156,7 @@ elif auto == 3:
     b.start()
 else:
     print("Input between 1-3")
-
+www.tiktok.com
 
 
 
